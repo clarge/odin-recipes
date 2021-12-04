@@ -29,3 +29,11 @@ img {
 .caption {
     font-size: 14px;
 }
+
+.image-row {
+    display: flex;
+}
+.image-column {
+    flex: 33.33%;
+    padding: 5px;
+}
